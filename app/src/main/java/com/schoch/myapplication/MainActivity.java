@@ -1,14 +1,14 @@
 package com.schoch.myapplication;
 
-        import android.os.Bundle;
-        import android.app.Activity;
-        import android.support.v4.app.ActivityCompat;
-        import android.support.v7.app.AppCompatActivity;
-        import android.view.Menu;
-        import android.webkit.WebChromeClient;
-        import android.webkit.WebView;
-        import android.webkit.GeolocationPermissions;
-        import android.webkit.WebViewClient;
+import android.os.Bundle;
+import android.app.Activity;
+import android.support.v4.app.ActivityCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.view.Menu;
+import android.webkit.WebChromeClient;
+import android.webkit.WebView;
+import android.webkit.GeolocationPermissions;
+import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
